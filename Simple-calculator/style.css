@@ -1,0 +1,63 @@
+
+.heading{
+    text-align: center;
+    justify-content: center;
+}
+.cal{
+    text-align: center;
+    justify-content: center;
+    background-size: 2rem ;
+    background-color: black;
+    color: white;
+    
+}
+.cal button{
+    height: 4rem;
+    width: 4rem;
+    margin: 3px;
+    border: 2px transparent rgb(255, 255, 255);
+    border-radius: 50%;
+    font-size: large;
+    font-weight: 600;
+    
+}
+#in{
+    width: 280px;
+    height: 60px;
+    margin-bottom: 10px;
+    margin: 0px;
+    padding: 0px;
+    font-size: larger;
+    font-weight: 600;
+}
+#AC{
+    background-color: orange;
+}
+#AC2{
+    background-color: orange;
+}
+#AC3{
+    background-color: orange;
+}
+#AC4{
+    background-color: orange;
+}
+#AC5{
+    background-color: orange;
+}
+#AC6{
+    background-color: orange;
+}
+#AC7{
+    background-color: orange;
+}
+#AC8{
+    background-color: orange;
+}
+#c{
+    width: 8rem;
+    border-radius: 45%;
+}
+#a{
+    background-color: darkgrey;
+}
